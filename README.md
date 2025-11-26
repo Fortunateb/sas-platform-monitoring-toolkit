@@ -1,6 +1,6 @@
 # sas-platform-monitoring-toolkit
 
-A collection of generic, safe, and reusable scripts for SAS 9.4 and SAS Viya administration.
+A collection of generic, safe, and reusable scripts for SAS 9.4 and SAS Viya.
 
 This repository showcases:
 - SAS platform automation
